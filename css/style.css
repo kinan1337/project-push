@@ -16,3 +16,11 @@ ul{
     text-align: center;
     color: red;
 }
+
+.bars div{
+    width: 30px;
+    height: 3px;
+    border-radius: 20px;
+    margin: 4px 0;
+    background-color: white;
+}
