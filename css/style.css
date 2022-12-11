@@ -6,3 +6,7 @@ body{
     width: 1224px;
     background-color: black;
 }
+
+.content {
+    text-align: center;
+}
