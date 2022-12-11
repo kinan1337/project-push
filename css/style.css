@@ -38,3 +38,8 @@ ul{
     margin: 4px 0;
     background-color: white;
 }
+
+.footer_left{
+    display: flex;
+    color: pink;
+}
